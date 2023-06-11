@@ -1,0 +1,21 @@
+body{
+      background-image: url('https://as2.ftcdn.net/v2/jpg/02/76/15/85/1000_F_276158586_h5RkwIgMQhvW1mfi7dNPV2GW1NGg3Fvb.jpg');
+      background-repeat:no-repeat;
+      background-attachment:fixed;
+      background-size:100% 100%;
+}
+.submitbtn2{
+       background-color:purple;
+       color:white;
+      width:120px;
+       height:30px;
+       border-radius:7px;
+}
+
+.submitbtn2:hover{
+       background-color:black;
+      color:white;
+}
+
+
+
